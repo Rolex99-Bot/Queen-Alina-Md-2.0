@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/8nr0TZRP/Queen-Alina-Banner.png" width="100%" alt="Queen Alina MD 2.0">
+  <img src="https://i.ibb.co/8nr0TZRP" width="100%" alt="Queen Alina MD 2.0">
 </p>
 
 <h1 align="center">👑 QUEEN ALINA MD 2.0</h1>
