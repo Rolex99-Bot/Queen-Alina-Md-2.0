@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/8nr0TZRP/Queen-Alina-Banner.png](https://res.cloudinary.com/dqlh378fb/image/upload/v1778674147/zanta_media_uploads/szawwufoxul4eniu63st.jpg)" width="80%" alt="Queen Alina MD 2.0">
+  <img src="https://kommodo.ai/i/nIE6wvu3wLxPSrflyGNa/Queen-Alina-Banner.png" width="100%" alt="Queen Alina MD 2.0">
 </p>
 
 <h1 align="center">👑 QUEEN ALINA MD 2.0</h1>
@@ -112,4 +112,3 @@ GOOGLE_GEMINI_API_KEY=your-key
   <b>Built with 💜 by Az Tech</b><br>
   <sub>👑 QUEEN ALINA MD 2.0 — Built Different. Born to Rule. 👑</sub>
 </p>
-
