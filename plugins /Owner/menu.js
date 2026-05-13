@@ -4,7 +4,7 @@
 // ═══════════════════════════════════════════
 
 export default {
-    command: 'menu',
+    command: 'menu','panel',
     aliases: ['help', 'commands', 'list', 'මෙනුව'],
     description: 'Show premium interactive menu',
     category: 'owner',
